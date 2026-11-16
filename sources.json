@@ -1,0 +1,176 @@
+[
+  {
+    "name": "中国新闻网财经",
+    "url": "https://www.chinanews.com.cn/rss/finance.xml",
+    "type": "rss",
+    "weight": 5
+  },
+  {
+    "name": "国家统计局最新发布",
+    "url": "https://www.stats.gov.cn/sj/zxfb/rss.xml",
+    "type": "rss",
+    "weight": 5
+  },
+  {
+    "name": "国家统计局数据解读",
+    "url": "https://www.stats.gov.cn/sj/sjjd/rss.xml",
+    "type": "rss",
+    "weight": 5
+  },
+  {
+    "name": "经济观察网金融投资",
+    "url": "http://www.eeo.com.cn/finance/rss.xml",
+    "type": "rss",
+    "weight": 4
+  },
+  {
+    "name": "新华网",
+    "url": "https://www.xinhuanet.com/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "人民网",
+    "url": "http://www.people.com.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "央视网",
+    "url": "https://www.cctv.com/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "央广网",
+    "url": "https://www.cnr.cn/",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "财联社",
+    "url": "https://www.cls.cn/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "第一财经",
+    "url": "https://www.yicai.com/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "证券时报",
+    "url": "https://www.stcn.com/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "中国证券报",
+    "url": "https://www.cs.com.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "上海证券报",
+    "url": "https://www.cnstock.com/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "证券日报",
+    "url": "https://www.zqrb.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "每日经济新闻",
+    "url": "https://www.nbd.com.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "经济观察网",
+    "url": "https://www.eeo.com.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "21世纪经济报道",
+    "url": "https://www.21jingji.com/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "中国基金报",
+    "url": "https://www.chnfund.com/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "中国人民银行",
+    "url": "https://www.pbc.gov.cn/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "中国证监会",
+    "url": "https://www.csrc.gov.cn/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "国家金融监督管理总局",
+    "url": "https://www.nfra.gov.cn/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "中国政府网",
+    "url": "https://www.gov.cn/",
+    "type": "html",
+    "weight": 5
+  },
+  {
+    "name": "国家发展改革委",
+    "url": "https://www.ndrc.gov.cn/",
+    "type": "html",
+    "weight": 4
+  },
+  {
+    "name": "联合早报",
+    "url": "https://www.zaobao.com/",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "BBC中文",
+    "url": "https://www.bbc.com/zhongwen",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "德国之声中文",
+    "url": "https://www.dw.com/zh/",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "法国国际广播电台中文",
+    "url": "https://www.rfi.fr/cn/",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "纽约时报中文网",
+    "url": "https://cn.nytimes.com/",
+    "type": "html",
+    "weight": 3
+  },
+  {
+    "name": "金融时报中文网",
+    "url": "https://www.ftchinese.com/",
+    "type": "html",
+    "weight": 4
+  }
+]
